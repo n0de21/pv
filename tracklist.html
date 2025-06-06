@@ -24,7 +24,7 @@
         background: #ffffff;
         color: #0a0a0a;
       }
-      
+
       html {
         overflow-y: scroll;
       }
@@ -126,7 +126,7 @@
         transition: opacity 0.4s ease, background 0.3s ease;
       }
       .button-container button.active {
-        background: #FFFFFF;
+        background: #ffffff;
         outline: 2px solid #111;
         color: #0a0a0a;
         opacity: 1;
@@ -244,17 +244,41 @@
     <script>
       const phaseData = [
         { label: "INFO", file: "tracks/info.txt", active: true },
-        { label: "PHASE1_SYNTH", file: "tracks/PHASE1_SYNTH.txt", active: false },
-        { label: "PHASE2_UPLINK", file: "tracks/PHASE2_UPLINK.txt", active: false },
+        {
+          label: "PHASE1_SYNTH",
+          file: "tracks/PHASE1_SYNTH.txt",
+          active: false,
+        },
+        {
+          label: "PHASE2_UPLINK",
+          file: "tracks/PHASE2_UPLINK.txt",
+          active: false,
+        },
         {
           label: "PHASE3_INITIATE",
           file: "tracks/PHASE3_INITIATE.txt",
           active: false,
         },
-        { label: "PHASE4_REVEAL", file: "tracks/PHASE4_REVEAL.txt", active: false },
-        { label: "PHASE5_DISRUPT", file: "tracks/PHASE5_DISRUPT.txt", active: false },
-        { label: "PHASE6_INFECT", file: "tracks/PHASE6_INFECT.txt", active: false },
-        { label: "PHASE7_REPEAT", file: "tracks/PHASE7_REPEAT.txt", active: false },
+        {
+          label: "PHASE4_REVEAL",
+          file: "tracks/PHASE4_REVEAL.txt",
+          active: false,
+        },
+        {
+          label: "PHASE5_DISRUPT",
+          file: "tracks/PHASE5_DISRUPT.txt",
+          active: false,
+        },
+        {
+          label: "PHASE6_INFECT",
+          file: "tracks/PHASE6_INFECT.txt",
+          active: false,
+        },
+        {
+          label: "PHASE7_REPEAT",
+          file: "tracks/PHASE7_REPEAT.txt",
+          active: false,
+        },
       ];
 
       function clearActive() {
@@ -301,7 +325,9 @@
           );
       }
 
-      createButtons();
+      window.addEventListener("DOMContentLoaded", () => {
+        createButtons();
+      });
     </script>
 
     <div class="bottom-links">
@@ -310,6 +336,11 @@
       <a href="https://www.tiktok.com/@n0de21" target="_blank">TK</a>
       <a href="https://www.youtube.com/@n0de21sync" target="_blank">YT</a>
     </div>
-    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "11c560ed23354eaa947d04071870c871"}'></script><!-- End Cloudflare Web Analytics -->
+    <script
+      defer
+      src="https://static.cloudflareinsights.com/beacon.min.js"
+      data-cf-beacon='{"token": "11c560ed23354eaa947d04071870c871"}'
+    ></script>
+    <!-- End Cloudflare Web Analytics -->
   </body>
 </html>
