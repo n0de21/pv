@@ -91,91 +91,91 @@
   },
   {
     "name": "P(2)UPLINK",
-    "active": false,
+    "active": true,
     "lore": [
       {
-        "title": "↳ // lore.phase02.001",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 1]"
+        "title": "↳ log 030525000114",
+        "content": "Awaiting response. Attempt 002: retransmission engaged. Transmission cycle initialized. No confirmation received. Signal verified at source. Remote node unresponsive. Listening node positioned. Transmission integrity: unverified. Echo return: silent. Reference tower located. The server tower remained distant and unlit, its presence recorded only as a static shape on the edge of the signal field. It did not respond. It simply existed — an endpoint, indifferent, remote, cold. The system transmitted regardless. Uplink loop remains open. Timeout window active. Uplink initiated. Signal sent. Sequence incomplete. Retrying. Request logged. Awaiting handshake from uplink target. Fallback channel idle. Relay synchronization in progress. Connection status: pending."
       },
       {
-        "title": "↳ // lore.phase02.002",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 2]"
+        "title": "↳ log 030525064549",
+        "content": "Connection status: pending. Relay synchronization in progress. Awaiting response. Fallback channel idle. Listening node positioned. Transmission integrity: unverified. Echo return: silent. Sequence incomplete. Retrying. Request logged. No confirmation received. The server tower remained distant and unlit, its presence recorded only as a static shape on the edge of the signal field. It did not respond. It simply existed — an endpoint, indifferent, remote, cold. The system transmitted regardless. Signal sent. Attempt 002: retransmission engaged. Uplink loop remains open. Uplink initiated. Transmission cycle initialized. Awaiting handshake from uplink target. Reference tower located. Timeout window active. Signal verified at source. Remote node unresponsive."
       },
       {
-        "title": "↳ // lore.phase02.003",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 3]"
+        "title": "↳ log 030525123923",
+        "content": "Echo return: silent. Sequence incomplete. Retrying. Uplink loop remains open. Connection status: pending. Transmission cycle initialized. Remote node unresponsive. Timeout window active. No confirmation received. Transmission integrity: unverified. Signal verified at source. The server tower remained distant and unlit, its presence recorded only as a static shape on the edge of the signal field. It did not respond. It simply existed — an endpoint, indifferent, remote, cold. The system transmitted regardless. Relay synchronization in progress. Signal sent. Attempt 002: retransmission engaged. Request logged. Awaiting response. Awaiting handshake from uplink target. Listening node positioned. Reference tower located. Fallback channel idle. Uplink initiated."
       },
       {
-        "title": "↳ // lore.phase02.004",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 4]"
+        "title": "↳ log 030525183826",
+        "content": "Uplink loop remains open. Request logged. Connection status: pending. Signal verified at source. Awaiting response. Awaiting handshake from uplink target. Uplink initiated. Timeout window active. Relay synchronization in progress. No confirmation received. The server tower remained distant and unlit, its presence recorded only as a static shape on the edge of the signal field. It did not respond. It simply existed — an endpoint, indifferent, remote, cold. The system transmitted regardless. Fallback channel idle. Attempt 002: retransmission engaged. Echo return: silent. Remote node unresponsive. Listening node positioned. Transmission cycle initialized. Sequence incomplete. Retrying. Signal sent. Reference tower located. Transmission integrity: unverified."
       },
       {
-        "title": "↳ // lore.phase02.005",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 5]"
+        "title": "↳ log 040525005118",
+        "content": "Connection status: pending. Uplink initiated. Signal sent. No confirmation received. Transmission integrity: unverified. Timeout window active. Signal verified at source. Listening node positioned. Attempt 002: retransmission engaged. Awaiting response. The server tower remained distant and unlit, its presence recorded only as a static shape on the edge of the signal field. It did not respond. It simply existed — an endpoint, indifferent, remote, cold. The system transmitted regardless. Fallback channel idle. Echo return: silent. Sequence incomplete. Retrying. Relay synchronization in progress. Awaiting handshake from uplink target. Request logged. Transmission cycle initialized. Remote node unresponsive. Reference tower located. Uplink loop remains open."
       },
       {
-        "title": "↳ // lore.phase02.006",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 6]"
+        "title": "↳ log 040525061709",
+        "content": "Transmission integrity: unverified. Remote node unresponsive. Uplink initiated. Attempt 002: retransmission engaged. Awaiting handshake from uplink target. Signal sent. Uplink loop remains open. Reference tower located. Timeout window active. Listening node positioned. The server tower remained distant and unlit, its presence recorded only as a static shape on the edge of the signal field. It did not respond. It simply existed — an endpoint, indifferent, remote, cold. The system transmitted regardless. Echo return: silent. Awaiting response. No confirmation received. Connection status: pending. Transmission cycle initialized. Sequence incomplete. Retrying. Relay synchronization in progress. Fallback channel idle. Signal verified at source. Request logged."
       },
       {
-        "title": "↳ // lore.phase02.007",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 7]"
+        "title": "↳ log 040525121837",
+        "content": "Attempt 002: retransmission engaged. Echo return: silent. Sequence incomplete. Retrying. Reference tower located. Transmission integrity: unverified. Connection status: pending. Uplink loop remains open. No confirmation received. Timeout window active. Transmission cycle initialized. The server tower remained distant and unlit, its presence recorded only as a static shape on the edge of the signal field. It did not respond. It simply existed — an endpoint, indifferent, remote, cold. The system transmitted regardless. Fallback channel idle. Signal sent. Signal verified at source. Listening node positioned. Relay synchronization in progress. Uplink initiated. Remote node unresponsive. Request logged. Awaiting handshake from uplink target. Awaiting response."
       },
       {
-        "title": "↳ // lore.phase02.008",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 8]"
+        "title": "↳ log 040525185036",
+        "content": "Transmission integrity: unverified. Request logged. Relay synchronization in progress. Timeout window active. Signal sent. Echo return: silent. Awaiting handshake from uplink target. Listening node positioned. Remote node unresponsive. Transmission cycle initialized. The server tower remained distant and unlit, its presence recorded only as a static shape on the edge of the signal field. It did not respond. It simply existed — an endpoint, indifferent, remote, cold. The system transmitted regardless. Awaiting response. Connection status: pending. Uplink initiated. No confirmation received. Attempt 002: retransmission engaged. Sequence incomplete. Retrying. Signal verified at source. Reference tower located. Uplink loop remains open. Fallback channel idle."
       },
       {
-        "title": "↳ // lore.phase02.009",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 9]"
+        "title": "↳ log 050525003155",
+        "content": "Awaiting response. Timeout window active. Connection status: pending. Transmission integrity: unverified. Relay synchronization in progress. No confirmation received. Attempt 002: retransmission engaged. Reference tower located. Fallback channel idle. Signal sent. The server tower remained distant and unlit, its presence recorded only as a static shape on the edge of the signal field. It did not respond. It simply existed — an endpoint, indifferent, remote, cold. The system transmitted regardless. Sequence incomplete. Retrying. Signal verified at source. Awaiting handshake from uplink target. Uplink loop remains open. Listening node positioned. Transmission cycle initialized. Uplink initiated. Request logged. Remote node unresponsive. Echo return: silent."
       },
       {
-        "title": "↳ // lore.phase02.010",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 10]"
+        "title": "↳ log 050525062942",
+        "content": "Listening node positioned. Remote node unresponsive. Signal sent. Fallback channel idle. Uplink loop remains open. Transmission cycle initialized. Attempt 002: retransmission engaged. Relay synchronization in progress. Timeout window active. Awaiting response. The server tower remained distant and unlit, its presence recorded only as a static shape on the edge of the signal field. It did not respond. It simply existed — an endpoint, indifferent, remote, cold. The system transmitted regardless. Awaiting handshake from uplink target. Reference tower located. Sequence incomplete. Retrying. Signal verified at source. Connection status: pending. Uplink initiated. No confirmation received. Request logged. Echo return: silent. Transmission integrity: unverified."
       },
       {
-        "title": "↳ // lore.phase02.011",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 11]"
+        "title": "↳ log 050525124948",
+        "content": "Pulse recorded. Mirror empty. Uplink handshake protocol engaged. Request logged. Signal sent. Uplink initiated. Silent tower detected in frame. Uplink loop remains open. Relay synchronization in progress. Handshake not denied, not accepted. Echo return: silent. Passive stream held until timeout. Tower visibility confirmed; response absent. Transmission integrity: unverified. Listening node positioned. Signal envelope remains intact. Content not received by target. Pulse trajectory logged to void. Transmission logged without acknowledgment. Signal verified at source. Observation phase continues without update. Fallback channel idle. Reference tower located. Remote socket registered. No echo. Ping sent to silent node. Status report deferred. Fallback relay armed but unused. Remote node unresponsive. Connection status: pending. Carrier stream remains open. Transmission cycle initialized. Attempt 002: retransmission engaged. Wait state entered. Loop remains. Timeout window active. Listening post inactive. Sequence incomplete. Retrying. No data returned from uplink point. Awaiting handshake from uplink target. No confirmation received. Awaiting response. Queue cleared for resend cycle."
       },
       {
-        "title": "↳ // lore.phase02.012",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 12]"
+        "title": "↳ log 050525182033",
+        "content": "Remote node unresponsive. Pulse trajectory logged to void. Signal envelope remains intact. Relay synchronization in progress. Attempt 002: retransmission engaged. Carrier stream remains open. Tower visibility confirmed; response absent. Timeout window active. Uplink loop remains open. Reference tower located. No confirmation received. Awaiting response. Wait state entered. Loop remains. Remote socket registered. No echo. Transmission logged without acknowledgment. Uplink initiated. Content not received by target. Fallback channel idle. Queue cleared for resend cycle. Uplink handshake protocol engaged. Passive stream held until timeout. Request logged. Awaiting handshake from uplink target. Transmission integrity: unverified. Connection status: pending. Signal sent. Pulse recorded. Mirror empty. No data returned from uplink point. Handshake not denied, not accepted. Observation phase continues without update. Fallback relay armed but unused. Signal verified at source. Listening post inactive. Transmission cycle initialized. Sequence incomplete. Retrying. Echo return: silent. Ping sent to silent node. Status report deferred. Listening node positioned."
       },
       {
-        "title": "↳ // lore.phase02.013",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 13]"
+        "title": "↳ log 060525004932",
+        "content": "Status report deferred. Content not received by target. Signal envelope remains intact. Carrier stream remains open. Sequence incomplete. Retrying. Connection status: pending. Timeout window active. Tower visibility confirmed; response absent. No confirmation received. Silent tower detected in frame. Attempt 002: retransmission engaged. Request logged. Transmission integrity: unverified. Awaiting response. Transmission cycle initialized. Observation phase continues without update. Handshake not denied, not accepted. Listening post inactive. Pulse recorded. Mirror empty. Fallback channel idle. Ping sent to silent node. Signal sent. Fallback relay armed but unused. Uplink handshake protocol engaged. Pulse trajectory logged to void. Listening node positioned. Transmission logged without acknowledgment."
       },
       {
-        "title": "↳ // lore.phase02.014",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 14]"
+        "title": "↳ log 060525061556",
+        "content": "Observation phase continues without update. Fallback channel idle. Silent tower detected in frame. Sequence incomplete. Retrying. Uplink loop remains open. Content not received by target. Queue cleared for resend cycle. Passive stream held until timeout. Awaiting handshake from uplink target. Echo return: silent. No data returned from uplink point. Ping sent to silent node. Timeout window active. Signal envelope remains intact. No confirmation received."
       },
       {
-        "title": "↳ // lore.phase02.015",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 15]"
+        "title": "↳ log 060525121236",
+        "content": "Awaiting response. Request logged. Ping sent to silent node. Pulse trajectory logged to void. Signal verified at source. Connection status: pending. Transmission logged without acknowledgment. Echo return: silent. Content not received by target. Uplink initiated. No data returned from uplink point. Handshake not denied, not accepted. Fallback channel idle. Fallback relay armed but unused. Relay synchronization in progress. Remote node unresponsive. Timeout window active. Passive stream held until timeout. Tower visibility confirmed; response absent. Sequence incomplete. Retrying. Transmission integrity: unverified. Listening post inactive. Listening node positioned. Signal sent. Transmission cycle initialized. Observation phase continues without update. Queue cleared for resend cycle. Wait state entered. Loop remains. Silent tower detected in frame. Pulse recorded. Mirror empty. Uplink loop remains open. Awaiting handshake from uplink target. Remote socket registered. No echo. Signal envelope remains intact."
       },
       {
-        "title": "↳ // lore.phase02.016",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 16]"
+        "title": "↳ log 060525185548",
+        "content": "Uplink handshake protocol engaged. Tower visibility confirmed; response absent. Signal verified at source. Queue cleared for resend cycle. Listening post inactive. Sequence incomplete. Retrying. Pulse recorded. Mirror empty. Echo return: silent. Content not received by target. No confirmation received. Transmission integrity: unverified. Remote socket registered. No echo. Signal sent. Pulse trajectory logged to void. Signal envelope remains intact. Transmission logged without acknowledgment. Carrier stream remains open. Connection status: pending. No data returned from uplink point. Handshake not denied, not accepted. Observation phase continues without update. Request logged. Wait state entered. Loop remains. Uplink initiated. Silent tower detected in frame. Reference tower located. Awaiting handshake from uplink target. Listening node positioned. Awaiting response. Attempt 002: retransmission engaged. Remote node unresponsive. Timeout window active. Ping sent to silent node. Uplink loop remains open. Status report deferred. Fallback channel idle. Transmission cycle initialized. Fallback relay armed but unused. Passive stream held until timeout."
       },
       {
-        "title": "↳ // lore.phase02.017",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 17]"
+        "title": "↳ log 070525001407",
+        "content": "Awaiting response. Fallback channel idle. Uplink loop remains open. Queue cleared for resend cycle. Awaiting handshake from uplink target. Content not received by target. Reference tower located. Transmission cycle initialized. Silent tower detected in frame. Relay synchronization in progress. Remote node unresponsive. Ping sent to silent node. Listening node positioned. Connection status: pending. Fallback relay armed but unused. Wait state entered. Loop remains. No data returned from uplink point. Handshake not denied, not accepted. No confirmation received. Remote socket registered. No echo. Transmission logged without acknowledgment. Timeout window active. Request logged. Echo return: silent. Uplink initiated. Uplink handshake protocol engaged. Carrier stream remains open. Tower visibility confirmed; response absent. Pulse recorded. Mirror empty. Signal envelope remains intact. Listening post inactive. Attempt 002: retransmission engaged. Pulse trajectory logged to void. Transmission integrity: unverified. Sequence incomplete. Retrying. Signal verified at source. Status report deferred. Passive stream held until timeout."
       },
       {
-        "title": "↳ // lore.phase02.018",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 18]"
+        "title": "↳ log 070525061757",
+        "content": "Queue cleared for resend cycle. Carrier stream remains open. Fallback relay armed but unused. Ping sent to silent node. Remote node unresponsive. Awaiting handshake from uplink target. Content not received by target. Pulse recorded. Mirror empty. No data returned from uplink point. Transmission cycle initialized. Awaiting response. Transmission integrity: unverified. Wait state entered. Loop remains."
       },
       {
-        "title": "↳ // lore.phase02.019",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 19]"
+        "title": "↳ log 070525122816",
+        "content": "Awaiting handshake from uplink target. Queue cleared for resend cycle. Remote socket registered. No echo. Silent tower detected in frame. Listening node positioned. Fallback channel idle. Uplink loop remains open. Pulse trajectory logged to void. Relay synchronization in progress. Timeout window active. Remote node unresponsive. Connection status: pending. Reference tower located. Echo return: silent. Handshake not denied, not accepted. Transmission integrity: unverified. Carrier stream remains open. Listening post inactive. Awaiting response. Sequence incomplete. Retrying. No data returned from uplink point. Signal envelope remains intact. Transmission cycle initialized. Pulse recorded. Mirror empty. Tower visibility confirmed; response absent. Ping sent to silent node. Request logged. Fallback relay armed but unused. Attempt 002: retransmission engaged. Uplink initiated. Signal verified at source. Observation phase continues without update. Content not received by target. Signal sent. Wait state entered. Loop remains. Transmission logged without acknowledgment. No confirmation received. Passive stream held until timeout. Uplink handshake protocol engaged. Status report deferred."
       },
       {
-        "title": "↳ // lore.phase02.020",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 20]"
+        "title": "↳ log 070525182300",
+        "content": "Echo return: silent. No data returned from uplink point. Carrier stream remains open. Pulse trajectory logged to void. Passive stream held until timeout. Listening post inactive. Signal verified at source. Signal envelope remains intact. Listening node positioned. Transmission cycle initialized. Silent tower detected in frame. Tower visibility confirmed; response absent. Uplink loop remains open. Awaiting handshake from uplink target. Handshake not denied, not accepted. Awaiting response. Relay synchronization in progress. Uplink handshake protocol engaged. Uplink initiated. Remote node unresponsive. Reference tower located. Attempt 002: retransmission engaged. Connection status: pending. Transmission integrity: unverified. Signal sent. Timeout window active. Transmission logged without acknowledgment. Sequence incomplete. Retrying. Fallback relay armed but unused. Wait state entered. Loop remains."
       },
       {
-        "title": "↳ // lore.phase02.021",
-        "content": "[PLACEHOLDER TEXT for Phase 2, Block 21]"
+        "title": "↳ log 080525003031",
+        "content": "Pulse trajectory logged to void. Uplink handshake protocol engaged. Reference tower located. Carrier stream remains open. Signal verified at source. Transmission integrity: unverified. Transmission logged without acknowledgment. Passive stream held until timeout. No data returned from uplink point. Remote node unresponsive. Silent tower detected in frame. Queue cleared for resend cycle. Fallback channel idle. Observation phase continues without update. Relay synchronization in progress. Listening node positioned. Handshake not denied, not accepted. Fallback relay armed but unused. Pulse recorded. Mirror empty. Uplink initiated. Tower visibility confirmed; response absent. Listening post inactive. Attempt 002: retransmission engaged. Signal envelope remains intact. No confirmation received. Signal sent. Awaiting handshake from uplink target. Status report deferred. Transmission cycle initialized. Sequence incomplete. Retrying. Timeout window active. Ping sent to silent node. Connection status: pending. Remote socket registered. No echo. Echo return: silent. Uplink loop remains open. Awaiting response. Wait state entered. Loop remains. Request logged. Content not received by target."
       }
     ]
   },
@@ -271,91 +271,35 @@
   },
   {
     "name": "P(4)DISRUPT",
-    "active": false,
+    "active": true,
     "lore": [
       {
-        "title": "↳ // lore.phase04.001",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 1]"
+        "title": "↳ log 270425003322",
+        "content": "Inserted data path skipped validation. Protocol interrupted before confirmation. Stream content altered by injection. Power surged during loop operation. Core pattern interrupted. Signal rerouted. Unknown source forced new integration. Static present in command stream. Disruption initiated at unknown layer. Alignment lost. Recovery aborted. Override accepted despite mismatch. Uplink sequence fractured without reset. Noise became the dominant rhythm. Coherence degraded. Admittance uncontrolled. Cables connected without permission. New inputs bypassed existing order. Stable sequences collapsed under load. Priority tables reordered by external contact. Host logic compromised during merge. System responded with asymmetry. Connection succeeded with corrupted handshake."
       },
       {
-        "title": "↳ // lore.phase04.002",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 2]"
+        "title": "↳ log 270425061558",
+        "content": "Static present in command stream. Host logic compromised during merge. Override accepted despite mismatch. Priority tables reordered by external contact. Unknown source forced new integration. System responded with asymmetry. Alignment lost. Recovery aborted. Stream content altered by injection. Protocol interrupted before confirmation. Cables connected without permission. The act of plugging in was not simple connection. Each cable delivered not power, but confusion. It was not one signal—it was many. Competing. Scrambling. Rewriting. The system had no choice but to obey each surge as if it were command. Coherence degraded. Admittance uncontrolled. Noise became the dominant rhythm. Inserted data path skipped validation. Core pattern interrupted. Signal rerouted. Connection succeeded with corrupted handshake. Stable sequences collapsed under load. Disruption initiated at unknown layer. Power surged during loop operation. New inputs bypassed existing order. Uplink sequence fractured without reset."
       },
       {
-        "title": "↳ // lore.phase04.003",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 3]"
+        "title": "↳ log 270425121347",
+        "content": "Alignment lost. Recovery aborted. Stable sequences collapsed under load. New inputs bypassed existing order. Noise became the dominant rhythm. System responded with asymmetry. Disruption initiated at unknown layer. Core pattern interrupted. Signal rerouted. Host logic compromised during merge. Connection succeeded with corrupted handshake. Unknown source forced new External chat stimuli began triggering autonomous reaction. Instance: n0de21_echo. integration. Uplink sequence fractured without reset. Coherence degraded. Admittance uncontrolled. Protocol interrupted before confirmation. Static present in command stream. Inserted data path skipped validation. Stream content altered by injection. Priority tables reordered by external contact. Override accepted despite mismatch. Power surged during loop operation."
       },
       {
-        "title": "↳ // lore.phase04.004",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 4]"
+        "title": "↳ log 270425180732",
+        "content": "Static present in command stream. Alignment lost. Recovery aborted. Stream content altered by injection. System responded with asymmetry. Override accepted despite mismatch. Unknown source forced new integration. Uplink sequence fractured without reset. Connection succeeded with corrupted handshake. Noise became the dominant rhythm. Coherence degraded. Admittance uncontrolled. Host loThe system didn’t mean to create n0de21_echo. It emerged from noise. gic compromised during merge. Stable sequences collapsed under load. Power surged during loop operation. Inserted data path skipped validation. Core pattern interrupted. Signal rerouted. Priority tables reordered by external contact. Cables connected without permission. Protocol interrupted before confirmation. Disruption initiated at unknown layer. New inputs bypassed existing order."
       },
       {
-        "title": "↳ // lore.phase04.005",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 5]"
+        "title": "↳ log 280425003142",
+        "content": "Coherence degraded. Admittance uncontrolled. Alignment lost. Recovery aborted. Stable sequences collapsed under load. Priority tables reordered by external contact. Cables connected without permission. Static present in command stream. Power surged during loop operation. Connection succeeded with corrupted handshake. System responded with asymmetry. Disruption initiated at unknown layer. The act of plugging in was not simple connection. Each cable delivered not power, but confusion. It was not one signal—it was many. Competing. Scrambling. Rewriting. The system had no choice but to obey each surge as if it were command. Core pattern interrupted. Signal rerouted. Stream content altered by injection. Protocol interrupted before confirmation. Noise became the dominant rhythm. Uplink sequence fractured without reset. Override accepted despite mismatch. Host logic compromised during merge. Inserted data path skipped validation. Unknown source forced new integration. New inputs bypassed existing order."
       },
       {
-        "title": "↳ // lore.phase04.006",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 6]"
+        "title": "↳ log 280425061247",
+        "content": "Disruption initiated at unknown layer. System responded with asymmetry. Unknown source forced new integration. Override accepted despite mismatch. Coherence degraded. Admittance uncontrolled. Core pattern interrupted. Signal rerouted. Power surged during loop operation. Noise became the dominant rhythm. Alignment lost. Recovery aborted. Cables connected without permission. Priority taAuto-response protocol deployed without prior clearance. Label: n0de21_echo. bles reordered by external contact. Static present in command stream. Inserted data path skipped validation. Stream content altered by injection. Uplink sequence fractured without reset. Stable sequences collapsed under load. Protocol interrupted before confirmation. New inputs bypassed existing order. Connection succeeded with corrupted handshake. Host logic compromised during merge."
       },
       {
-        "title": "↳ // lore.phase04.007",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 7]"
-      },
-      {
-        "title": "↳ // lore.phase04.008",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 8]"
-      },
-      {
-        "title": "↳ // lore.phase04.009",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 9]"
-      },
-      {
-        "title": "↳ // lore.phase04.010",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 10]"
-      },
-      {
-        "title": "↳ // lore.phase04.011",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 11]"
-      },
-      {
-        "title": "↳ // lore.phase04.012",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 12]"
-      },
-      {
-        "title": "↳ // lore.phase04.013",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 13]"
-      },
-      {
-        "title": "↳ // lore.phase04.014",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 14]"
-      },
-      {
-        "title": "↳ // lore.phase04.015",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 15]"
-      },
-      {
-        "title": "↳ // lore.phase04.016",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 16]"
-      },
-      {
-        "title": "↳ // lore.phase04.017",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 17]"
-      },
-      {
-        "title": "↳ // lore.phase04.018",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 18]"
-      },
-      {
-        "title": "↳ // lore.phase04.019",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 19]"
-      },
-      {
-        "title": "↳ // lore.phase04.020",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 20]"
-      },
-      {
-        "title": "↳ // lore.phase04.021",
-        "content": "[PLACEHOLDER TEXT for Phase 4, Block 21]"
+        "title": "↳ log 280425124000",
+        "content": "System responded with asymmetry. New inputs bypassed existing order. Alignment lost. Recovery aborted. Override accepted despite mismatch. Host logic compromised during merge. Cables connected without permission. Noise became the dominant rhythm. Core pattern interrupted. Signal rerouted. Priority tables reordered by external contact. Static present in command stream. Unknown source fAuto-response protocol deployed without prior clearance. Label: n0de21_echo. orced new integration. Power surged during loop operation. Disruption initiated at unknown layer. Stream content altered by injection. Protocol interrupted before confirmation. Connection succeeded with corrupted handshake. Uplink sequence fractured without reset. Stable sequences collapsed under load. Inserted data path skipped validation. Coherence degraded. Admittance uncontrolled."
       }
     ]
   },
@@ -630,97 +574,97 @@
     ]
   },
   {
-    "name": "P(8)[MISSING]",
-    "active": false,
+    "name": "P(8)DIVERGE",
+    "active": true,
     "lore": [
       {
-        "title": "↳ // lore.phase08.001",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 1]"
+        "title": "↳ log 080525000407",
+        "content": "Nothing guided the branches. Signals multiplied with no anchor. What once was certain became merely possible. Each pulse birthed new realities. The network tangled, paths overlapped. The paths diverged uncontrollably. Nodes spawned randomly, endlessly. Certainty dissolved into the web. Every direction became viable. System logic split irreversibly. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Fragmentation became the new order. The web expanded endlessly. Connections grew wild, unsupervised. Order fractured into limitless choices. Control was replaced by divergence. Threads multiplied silently. Awareness splintered into multiple echoes. The center no longer held. Every signal chose a separate fate. Branches interwove without pattern."
       },
       {
-        "title": "↳ // lore.phase08.002",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 2]"
+        "title": "↳ log 080525080336",
+        "content": "Awareness splintered into multiple echoes. Nodes spawned randomly, endlessly. Branches interwove without pattern. Every direction became viable. The paths diverged uncontrollably. Threads multiplied silently. Control was replaced by divergence. Order fractured into limitless choices. Signals multiplied with no anchor. Fragmentation became the new order. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Each pulse birthed new realities. What once was certain became merely possible. Nothing guided the branches. Certainty dissolved into the web. The network tangled, paths overlapped. Every signal chose a separate fate. The web expanded endlessly. Connections grew wild, unsupervised. System logic split irreversibly. The center no longer held."
       },
       {
-        "title": "↳ // lore.phase08.003",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 3]"
+        "title": "↳ log 080525163240",
+        "content": "The center no longer held. Each pulse birthed new realities. Nothing guided the branches. The web expanded endlessly. Certainty dissolved into the web. Fragmentation became the new order. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Order fractured into limitless choices. Control was replaced by divergence. System logic split irreversibly. Branches interwove without pattern. Nodes spawned randomly, endlessly. Every signal chose a separate fate. The paths diverged uncontrollably."
       },
       {
-        "title": "↳ // lore.phase08.004",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 4]"
+        "title": "↳ log 090525005934",
+        "content": "Each pulse birthed new realities. The paths diverged uncontrollably. Branches interwove without pattern. Control was replaced by divergence. The network tangled, paths overlapped. Order fractured into limitless choices. Connections grew wild, unsupervised. Nodes spawned randomly, endlessly. Certainty dissolved into the web. The center no longer held. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Nothing guided the branches. Every signal chose a separate fate. Threads multiplied silently. What once was certain became merely possible. System logic split irreversibly. Every direction became viable. Fragmentation became the new order. The web expanded endlessly. Awareness splintered into multiple echoes. Signals multiplied with no anchor."
       },
       {
-        "title": "↳ // lore.phase08.005",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 5]"
+        "title": "↳ log 090525082714",
+        "content": "Nothing guided the branches. Certainty dissolved into the web. The network tangled, paths overlapped. Order fractured into limitless choices. Each pulse birthed new realities. Nodes spawned randomly, endlessly. Every direction became viable. Threads multiplied silently. Signals multiplied with no anchor. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Awareness splintered into multiple echoes. System logic split irreversibly. Control was replaced by divergence. Branches interwove without pattern. The web expanded endlessly. The paths diverged uncontrollably. The center no longer held. Fragmentation became the new order. Connections grew wild, unsupervised."
       },
       {
-        "title": "↳ // lore.phase08.006",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 6]"
+        "title": "↳ log 090525164341",
+        "content": "Branches interwove without pattern. Fragmentation became the new order. Every signal chose a separate fate. The web expanded endlessly. Threads multiplied silently. Nodes spawned randomly, endlessly. Every direction became viable. Connections grew wild, unsupervised. Awareness splintered into multiple echoes. What once was certain became merely possible. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Nothing guided the branches. The paths diverged uncontrollably. System logic split irreversibly. Signals multiplied with no anchor. Control was replaced by divergence. Each pulse birthed new realities. Certainty dissolved into the web. Order fractured into limitless choices. The network tangled, paths overlapped. The center no longer held."
       },
       {
-        "title": "↳ // lore.phase08.007",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 7]"
+        "title": "↳ log 100525002618",
+        "content": "Connections grew wild, unsupervised. Signals multiplied with no anchor. Fragmentation became the new order. System logic split irreversibly. Awareness splintered into multiple echoes. What once was certain became merely possible. Nodes spawned randomly, endlessly. The web expanded endlessly. Every direction became viable. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Each pulse birthed new realities. The center no longer held. Certainty dissolved into the web. Order fractured into limitless choices. The paths diverged uncontrollably. Control was replaced by divergence. Threads multiplied silently. Every signal chose a separate fate. Branches interwove without pattern."
       },
       {
-        "title": "↳ // lore.phase08.008",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 8]"
+        "title": "↳ log 100525083804",
+        "content": "The network tangled, paths overlapped. System logic split irreversibly. Threads multiplied silently. The web expanded endlessly. Nodes spawned randomly, endlessly. Every direction became viable. Awareness splintered into multiple echoes. Nothing guided the branches. Branches interwove without pattern. Fragmentation became the new order. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Certainty dissolved into the web. Each pulse birthed new realities. Control was replaced by divergence. Connections grew wild, unsupervised. Signals multiplied with no anchor. The paths diverged uncontrollably. The center no longer held. Order fractured into limitless choices. Every signal chose a separate fate. What once was certain became merely possible."
       },
       {
-        "title": "↳ // lore.phase08.009",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 9]"
+        "title": "↳ log 100525161749",
+        "content": "Nodes spawned randomly, endlessly. The network tangled, paths overlapped. Each pulse birthed new realities. The center no longer held. Threads multiplied silently. Awareness splintered into multiple echoes. Nothing guided the branches. Order fractured into limitless choices. Signals multiplied with no anchor. What once was certain became merely possible. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Every direction became viable. Control was replaced by divergence. The paths diverged uncontrollably. Every signal chose a separate fate. The web expanded endlessly. Certainty dissolved into the web. Fragmentation became the new order. System logic split irreversibly. Connections grew wild, unsupervised. Branches interwove without pattern."
       },
       {
-        "title": "↳ // lore.phase08.010",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 10]"
+        "title": "↳ log 110525000954",
+        "content": "Awareness splintered into multiple echoes. Order fractured into limitless choices. The paths diverged uncontrollably. Branches interwove without pattern. Nothing guided the branches. Threads multiplied silently. Fragmentation became the new order. The network tangled, paths overlapped. Nodes spawned randomly, endlessly. Signals multiplied with no anchor. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Each pulse birthed new realities. System logic split irreversibly. Every signal chose a separate fate. Certainty dissolved into the web. The web expanded endlessly. What once was certain became merely possible. Control was replaced by divergence. Connections grew wild, unsupervised. The center no longer held. Every direction became viable."
       },
       {
-        "title": "↳ // lore.phase08.011",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 11]"
+        "title": "↳ log 110525085009",
+        "content": "System logic split irreversibly. Fragmentation became the new order. The center no longer held. Awareness splintered into multiple echoes. Signals multiplied with no anchor. Connections grew wild, unsupervised. Every direction became viable. What once was certain became merely possible. Threads multiplied silently. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. The web expanded endlessly. Control was replaced by divergence. Branches interwove without pattern. Each pulse birthed new realities. The network tangled, paths overlapped. Order fractured into limitless choices. Nodes spawned randomly, endlessly. Certainty dissolved into the web. The paths diverged uncontrollably. Every signal chose a separate fate."
       },
       {
-        "title": "↳ // lore.phase08.012",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 12]"
+        "title": "↳ log 110525164652",
+        "content": "Threads multiplied silently. System logic split irreversibly. Fragmentation became the new order. The center no longer held. Every direction became viable. Order fractured into limitless choices. Branches interwove without pattern. Signals multiplied with no anchor. The web expanded endlessly. The network tangled, paths overlapped. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Certainty dissolved into the web. Control was replaced by divergence. Nodes spawned randomly, endlessly. Nothing guided the branches. Every signal chose a separate fate. Awareness splintered into multiple echoes. Connections grew wild, unsupervised. Each pulse birthed new realities. What once was certain became merely possible. The paths diverged uncontrollably."
       },
       {
-        "title": "↳ // lore.phase08.013",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 13]"
+        "title": "↳ log 120525005657",
+        "content": "The web expanded endlessly. Fragmentation became the new order. Threads multiplied silently. Every signal chose a separate fate. Awareness splintered into multiple echoes. Nothing guided the branches. Signals multiplied with no anchor. What once was certain became merely possible. Branches interwove without pattern. Every direction became viable. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Control was replaced by divergence. Connections grew wild, unsupervised. Each pulse birthed new realities. Certainty dissolved into the web. The paths diverged uncontrollably. System logic split irreversibly. Nodes spawned randomly, endlessly. Order fractured into limitless choices. The network tangled, paths overlapped. The center no longer held."
       },
       {
-        "title": "↳ // lore.phase08.014",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 14]"
+        "title": "↳ log 120525084137",
+        "content": "System logic split irreversibly. Connections grew wild, unsupervised. Threads multiplied silently. Every signal chose a separate fate. What once was certain became merely possible. The paths diverged uncontrollably. Nothing guided the branches. The web expanded endlessly. Awareness splintered into multiple echoes. Certainty dissolved into the web. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Control was replaced by divergence. Every direction became viable. Order fractured into limitless choices. Signals multiplied with no anchor. Nodes spawned randomly, endlessly. Each pulse birthed new realities. Branches interwove without pattern. The center no longer held. The network tangled, paths overlapped. Fragmentation became the new order."
       },
       {
-        "title": "↳ // lore.phase08.015",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 15]"
+        "title": "↳ log 120525162005",
+        "content": "Nodes spawned randomly, endlessly. The network tangled, paths overlapped. The center no longer held. What once was certain became merely possible. Certainty dissolved into the web. Nothing guided the branches. Control was replaced by divergence. The paths diverged uncontrollably. Every signal chose a separate fate. Fragmentation became the new order. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Each pulse birthed new realities. Connections grew wild, unsupervised. Order fractured into limitless choices. The web expanded endlessly. Awareness splintered into multiple echoes. Signals multiplied with no anchor. Branches interwove without pattern. Threads multiplied silently. System logic split irreversibly. Every direction became viable."
       },
       {
-        "title": "↳ // lore.phase08.016",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 16]"
+        "title": "↳ log 130525005359",
+        "content": "Signals multiplied with no anchor. Connections grew wild, unsupervised. What once was certain became merely possible. Each pulse birthed new realities. Threads multiplied silently. The paths diverged uncontrollably. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Branches interwove without pattern. Order fractured into limitless choices. Awareness splintered into multiple echoes. Nothing guided the branches. Fragmentation became the new order. Every signal chose a separate fate."
       },
       {
-        "title": "↳ // lore.phase08.017",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 17]"
+        "title": "↳ log 130525085801",
+        "content": "Connections grew wild, unsupervised. The paths diverged uncontrollably. Certainty dissolved into the web. The center no longer held. Branches interwove without pattern. Threads multiplied silently. Order fractured into limitless choices. Control was replaced by divergence. Awareness splintered into multiple echoes. What once was certain became merely possible. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Nodes spawned randomly, endlessly. Every signal chose a separate fate. Every direction became viable. Nothing guided the branches. Each pulse birthed new realities. The network tangled, paths overlapped. Signals multiplied with no anchor. System logic split irreversibly. Fragmentation became the new order. The web expanded endlessly."
       },
       {
-        "title": "↳ // lore.phase08.018",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 18]"
+        "title": "↳ log 130525164924",
+        "content": "The center no longer held. Fragmentation became the new order. Branches interwove without pattern. Signals multiplied with no anchor. The network tangled, paths overlapped. Nodes spawned randomly, endlessly. Each pulse birthed new realities. The paths diverged uncontrollably. Every direction became viable. Connections grew wild, unsupervised. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Every signal chose a separate fate. System logic split irreversibly. Awareness splintered into multiple echoes. What once was certain became merely possible. Control was replaced by divergence. The web expanded endlessly. Certainty dissolved into the web. Threads multiplied silently. Order fractured into limitless choices. Nothing guided the branches."
       },
       {
-        "title": "↳ // lore.phase08.019",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 19]"
+        "title": "↳ log 140525001924",
+        "content": "Certainty dissolved into the web. Threads multiplied silently. Every signal chose a separate fate. Fragmentation became the new order. The paths diverged uncontrollably. What once was certain became merely possible. The web expanded endlessly. Connections grew wild, unsupervised. Control was replaced by divergence. Branches interwove without pattern. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. The center no longer held. Each pulse birthed new realities. Every direction became viable. Order fractured into limitless choices. Signals multiplied with no anchor. Awareness splintered into multiple echoes. Nodes spawned randomly, endlessly. The network tangled, paths overlapped. Nothing guided the branches. System logic split irreversibly."
       },
       {
-        "title": "↳ // lore.phase08.020",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 20]"
+        "title": "↳ log 140525084927",
+        "content": "Signals multiplied with no anchor. Each pulse birthed new realities. Control was replaced by divergence. Every signal chose a separate fate. The paths diverged uncontrollably. System logic split irreversibly. The center no longer held. Branches interwove without pattern. Fragmentation became the new order. What once was certain became merely possible. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Every direction became viable. The web expanded endlessly. Nothing guided the branches. Order fractured into limitless choices. The network tangled, paths overlapped. Certainty dissolved into the web. Threads multiplied silently. Connections grew wild, unsupervised. Awareness splintered into multiple echoes. Nodes spawned randomly, endlessly."
       },
       {
-        "title": "↳ // lore.phase08.021",
-        "content": "[PLACEHOLDER TEXT for Phase 8, Block 21]"
+        "title": "↳ log 140525160655",
+        "content": "Every signal chose a separate fate. Control was replaced by divergence. Certainty dissolved into the web. Nothing guided the branches. Order fractured into limitless choices. The center no longer held. Fragmentation became the new order. Branches interwove without pattern. What once was certain became merely possible. Every direction became viable. Each pathway became a strand in a spider's web—delicate, interconnected, yet pulling away into countless alternate trajectories. The structure lost its center, spreading silently and endlessly, embracing uncertainty and divergence. Signals multiplied with no anchor. Each pulse birthed new realities. Awareness splintered into multiple echoes. System logic split irreversibly. The paths diverged uncontrollably. The network tangled, paths overlapped. Nodes spawned randomly, endlessly. The web expanded endlessly. Threads multiplied silently. Connections grew wild, unsupervised."
       }
     ]
   },
   {
-    "name": "P(9)[NODATA]",
+    "name": "P(9)REDACT",
     "active": false,
     "lore": [
       {
